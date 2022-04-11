@@ -34,7 +34,7 @@ a.icon{
 }
 footer{
     height: 150px;
-    font-size: 40px; 
+    font-size: 20px; 
 }
 footer li{
     margin-left: 40%;
@@ -50,6 +50,7 @@ ul li {
     align-content: space-between;
     text-align: center;
     justify-content: center;
+    margin-right: 75px;
 }
 .the_contacts ul{
     width: 16%;
